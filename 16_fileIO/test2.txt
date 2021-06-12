@@ -1,0 +1,10 @@
+01234
+abcde
+ㄱㄴㄷ
+가나다라마
+
+ Python programming
+
+Python programmingR programming
+
+R programming
